@@ -1,0 +1,50 @@
+# Variables de entorno (credenciales sensibles)
+.env
+*/.env
+
+# Base de datos local
+db.sqlite3
+*/db.sqlite3
+
+# Archivos compilados de Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Node modules
+node_modules/
+*/node_modules/
+
+# Build outputs
+dist/
+*/dist/
+build/
+*/build/
+
+# Logs
+*.log
+*/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Cache
+.cache/
+*/.cache/
