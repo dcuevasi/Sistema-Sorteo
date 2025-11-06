@@ -1,4 +1,4 @@
-# Sorteo San Valentín - CTS Turismo
+# Sorteo San Valentín
 
 Sistema completo para gestión de sorteo de San Valentín desarrollado con Django + Vue.js. Permite registro de participantes, verificación de email, panel administrativo para selección de ganadores y notificaciones automáticas.
 
@@ -350,7 +350,3 @@ python test_api.py
 - [ ] **Dashboard con métricas** en tiempo real
 - [ ] **Backup automático** de base de datos
 - [ ] **Multi-idioma** (i18n)
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado como prueba técnica.
